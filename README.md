@@ -1,2 +1,3 @@
-# iOS-developer-portfolio
-A visual portfolio of my latest Swift iOS projects. 📱
+<a href="https://google.com/" download><img src="https://img.shields.io/badge/Download-Resume-8056d5.svg?style=for-the-badge&logo=swift&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:nickshv13@gmail.com"><img src="https://img.shields.io/badge/Email-Nikolai-red.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://upwork.com/freelancers/~01726240f751164d57" target="_blank"><img src="https://img.shields.io/badge/work-NikolaiShelehov-brightgreen.svg?style=for-the-badge&logo=upwork&logoColor=brightgreen" ></a>&nbsp;&nbsp;&nbsp;<a href="https://t.me/xbladesub" target="_blank"><img src="https://img.shields.io/badge/telegram-xbladesub-5BA3F9.svg?style=for-the-badge&logo=Telegram&logoColor=white"></a>
+# Secure VPN Pro 
+<p align="center"><a href="https://google.com/" download><img src="https://img.shields.io/badge/-Appstore-gray.svg?style=flat&logo=apple&logoColor=white"></a></p>
