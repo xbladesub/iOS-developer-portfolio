@@ -14,12 +14,12 @@ This app is implemented in such a way as to be responsive and simple. Also after
 <p align="center"><a href="https://apps.apple.com/us/app/vpn/id1437498688?ls=1" download><img src="https://img.shields.io/badge/-Appstore-gray.svg?style=flat&logo=apple&logoColor=white"></a></p>
 
 # Stocks To Trade
-A screener application that allows you to monitor cheap stocks and their growth, add your tickers to your watchlist and visualize market data on a daily chart from Japanese candles.
+A screener application that allows you to monitor cheap stocks and their growth, add tickers to your watchlist and visualize market data on a daily chart from Japanese candles.
 
 The application turned out to be very compact, despite the vastness of the data, the intuitive interface makes it easy to use as an assistant in selecting shares for trading to those who are interested in it.
 
 # Monster VPN Proxy
 In this application, I implemented a fun and simple design along with the basic functionality that allows you to be incognito on the network.
 
-Nice colors, animations and simplicity make this app comfortable and friendly to use.
+Nice colors, animations and simplicity make this app comfortable and user-friendly.
 <p align="center"><a href="https://apps.apple.com/us/app/vpn/id1460589548?ls=1" download><img src="https://img.shields.io/badge/-Appstore-gray.svg?style=flat&logo=apple&logoColor=white"></a></p>
