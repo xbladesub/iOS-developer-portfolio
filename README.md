@@ -17,7 +17,7 @@ Nice and minimal design was implemented in this application. Ease of use when ch
 This app is implemented in such a way as to be responsive and simple. Also after VPN connection you can observe new network parameters such as ping and ip-address.
 
 <p align="center">
-<img src="images/home.png" width="260"  title="Secure VPN Pro">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/payment.png" width="260" title="Secure VPN Pro">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/transitions_animation.gif" width="260" title="Secure VPN Pro">
+<img src="images/home.png" width="260"  title="Secure VPN Pro">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/payment.png" width="260" title="Secure VPN Pro">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/transition_animations.gif" width="260" title="Secure VPN Pro">
 </p>
 
 # Stocks To Trade
