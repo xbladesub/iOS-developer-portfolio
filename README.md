@@ -24,7 +24,7 @@ Nice colors, animations and simplicity make this app comfortable and user-friend
 
 Nice and minimal design was implemented in this application. Ease of use when choosing a server, connecting with a user-friendly interface make this application as comfortable as possible.
 
-This app is implemented in such a way as to be responsive and simple. Also after VPN connection you can observe new network parameters such as ping and ip-address.
+This app is implemented in such a way as to be responsive and simple. Also, as soon as VPN connection has been established you can observe new network parameters such as ping and ip-address.
 
 <p align="center">
 <img src="images/HotVPN/payment.png" width="260"  title="Secure VPN Pro">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/HotVPN/home.png" width="260" title="Secure VPN Pro">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/HotVPN/transition_animations.gif" width="260" title="Secure VPN Pro">
