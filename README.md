@@ -7,7 +7,17 @@ This app is one of a series of VPN applications that I have been working on from
 After the VPN connection has been established, it becomes possible to monitor the current location and the selected server on the map, including the new ip-address.
 
 <p align="center">
-<img src="images/menu.png" width="260"  title="Secure VPN Pro">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/serverList.png" width="260" title="Secure VPN Pro">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/transitions_animation.gif" width="260" title="Secure VPN Pro">
+<img src="images/SecureVpnPro/menu.png" width="260"  title="Secure VPN Pro">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SecureVpnPro/serverList.png" width="260" title="Secure VPN Pro">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SecureVpnPro/transition_animations.gif" width="260" title="Secure VPN Pro">
+</p>
+
+# Monster VPN Proxy <a href="https://apps.apple.com/us/app/vpn/id1460589548?ls=1" download><img src="https://img.shields.io/badge/-Appstore-gray.svg?style=flat&logo=apple&logoColor=white"></a>
+
+In this application, I implemented a fun and simple design along with the basic functionality that allows you to be incognito on the network.
+
+Nice colors, animations and simplicity make this app comfortable and user-friendly.
+
+<p align="center">
+<img src="images/MonsterVPNProxy/menu.png" width="260"  title="Secure VPN Pro">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/MonsterVPNProxy/home.png" width="260" title="Secure VPN Pro">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/MonsterVPNProxy/transition_animations.gif" width="260" title="Secure VPN Pro">
 </p>
 
 # Hot VPN <a href="https://apps.apple.com/us/app/vpn/id1437498688?ls=1" download><img src="https://img.shields.io/badge/-Appstore-gray.svg?style=flat&logo=apple&logoColor=white"></a>
@@ -17,16 +27,5 @@ Nice and minimal design was implemented in this application. Ease of use when ch
 This app is implemented in such a way as to be responsive and simple. Also after VPN connection you can observe new network parameters such as ping and ip-address.
 
 <p align="center">
-<img src="images/payment.png" width="260"  title="Secure VPN Pro">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/home.png" width="260" title="Secure VPN Pro">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/transition_animations.gif" width="260" title="Secure VPN Pro">
+<img src="images/HotVPN/payment.png" width="260"  title="Secure VPN Pro">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/HotVPN/home.png" width="260" title="Secure VPN Pro">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/HotVPN/transition_animations.gif" width="260" title="Secure VPN Pro">
 </p>
-
-# Stocks To Trade
-A screener application that allows you to monitor cheap stocks and their growth, add tickers to your watchlist and visualize market data on a daily chart from Japanese candles.
-
-The application turned out to be very compact, despite the vastness of the data, the intuitive interface makes it easy to use as an assistant in selecting shares for trading to those who are interested in it.
-
-# Monster VPN Proxy
-In this application, I implemented a fun and simple design along with the basic functionality that allows you to be incognito on the network.
-
-Nice colors, animations and simplicity make this app comfortable and user-friendly.
-<p align="center"><a href="https://apps.apple.com/us/app/vpn/id1460589548?ls=1" download><img src="https://img.shields.io/badge/-Appstore-gray.svg?style=flat&logo=apple&logoColor=white"></a></p>
