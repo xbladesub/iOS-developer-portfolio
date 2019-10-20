@@ -4,17 +4,21 @@
 
 This app is one of a series of VPN applications that I have been working on from the very beginning to the end. In addition to the functionality that allows you to be online incognito, a user-friendly interface was implemented, smooth transitions between scenes and animations.
 
-After the VPN connection has been established, it becomes possible to monitor the current location and the selected server on the map, including the new ip address
+After the VPN connection has been established, it becomes possible to monitor the current location and the selected server on the map, including the new ip-address.
 
 <p align="center">
-<img src="images/serverList.png" width="260"  title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/menu.png" width="260" title="DarkRoom">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/transitions_animation.gif" width="260" title="DarkRoom">
+<img src="images/menu.png" width="260"  title="Secure VPN Pro">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/serverList.png" width="260" title="Secure VPN Pro">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/transitions_animation.gif" width="260" title="Secure VPN Pro">
 </p>
 
-# Hot VPN 
+# Hot VPN <a href="https://apps.apple.com/us/app/vpn/id1437498688?ls=1" download><img src="https://img.shields.io/badge/-Appstore-gray.svg?style=flat&logo=apple&logoColor=white"></a>
+
 Nice and minimal design was implemented in this application. Ease of use when choosing a server, connecting with a user-friendly interface make this application as comfortable as possible.
 
-This app is implemented in such a way as to be responsive and simple. Also after VPN connection you can observe new network parameters such as ping and ip-address
-<p align="center"><a href="https://apps.apple.com/us/app/vpn/id1437498688?ls=1" download><img src="https://img.shields.io/badge/-Appstore-gray.svg?style=flat&logo=apple&logoColor=white"></a></p>
+This app is implemented in such a way as to be responsive and simple. Also after VPN connection you can observe new network parameters such as ping and ip-address.
+
+<p align="center">
+<img src="images/222.gif" width="260"  title="Secure VPN Pro">
+</p>
 
 # Stocks To Trade
 A screener application that allows you to monitor cheap stocks and their growth, add tickers to your watchlist and visualize market data on a daily chart from Japanese candles.
