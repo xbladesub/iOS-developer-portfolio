@@ -17,7 +17,7 @@ In this application, I implemented a fun and simple design along with the basic 
 Nice colors, animations and simplicity make this app comfortable and user-friendly.
 
 <p align="center">
-<img src="images/MonsterVPNProxy/menu.png" width="260"  title="Secure VPN Pro">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/MonsterVPNProxy/home.png" width="260" title="Secure VPN Pro">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/MonsterVPNProxy/transition_animations.gif" width="260" title="Secure VPN Pro">
+<img src="images/MonsterVPNProxy/menu.png" width="260"  title="Monster VPN Proxy">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/MonsterVPNProxy/home.png" width="260" title="Monster VPN Proxy">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/MonsterVPNProxy/transition_animations.gif" width="260" title="Monster VPN Proxy">
 </p>
 
 # Hot VPN <a href="https://apps.apple.com/us/app/vpn/id1437498688?ls=1" download><img src="https://img.shields.io/badge/-Appstore-gray.svg?style=flat&logo=apple&logoColor=white"></a>
@@ -27,5 +27,5 @@ Nice and minimal design was implemented in this application. Ease of use when ch
 This app is implemented in such a way as to be responsive and simple. Also, as soon as VPN connection has been established you can observe new network parameters such as ping and ip-address.
 
 <p align="center">
-<img src="images/HotVPN/payment.png" width="260"  title="Secure VPN Pro">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/HotVPN/home.png" width="260" title="Secure VPN Pro">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/HotVPN/transition_animations.gif" width="260" title="Secure VPN Pro">
+<img src="images/HotVPN/payment.png" width="260"  title="Hot VPN">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/HotVPN/home.png" width="260" title="Hot VPN">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/HotVPN/transition_animations.gif" width="260" title="Hot VPN">
 </p>
