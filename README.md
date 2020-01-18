@@ -1,6 +1,6 @@
 <a href="https://drive.google.com/open?id=1pkJVe1xzEcRgJSg9m96mybfi1VyQB6xl" download><img src="https://img.shields.io/badge/Download-Resume-8056d5.svg?style=for-the-badge&logo=swift&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:nickshv13@gmail.com"><img src="https://img.shields.io/badge/Email-Nikolai-red.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/nshelehov" target="_blank"><img src="https://img.shields.io/badge/linkedin-nshelehov-17A192.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://t.me/xbladesub" target="_blank"><img src="https://img.shields.io/badge/telegram-xbladesub-5BA3F9.svg?style=for-the-badge&logo=Telegram&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://upwork.com/freelancers/~01726240f751164d57" target="_blank"><img src="https://img.shields.io/badge/work-NikolaiShelehov-brightgreen.svg?style=for-the-badge&logo=upwork&logoColor=brightgreen" ></a>
 
-# Document Scanner <a href="https://apps.apple.com/us/app/scanner/id1485075320?ls=1" download><img src="https://img.shields.io/badge/-Appstore-gray.svg?style=flat&logo=apple&logoColor=white"></a>
+# Document Scanner
 
 This application includes many features that allow you to scan documents and edit them. Among the main features are scanning, applying various filters, resizing / quality and resolution. So there are such functions as text recognition, signature and many others...
 
@@ -8,7 +8,7 @@ This application includes many features that allow you to scan documents and edi
 <img src="images/DocumentScanner/scanner1.jpg" width="260"  title="Document Scanner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/DocumentScanner/scanner2.jpg" width="260" title="Document Scanner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/DocumentScanner/scanner3.jpg" width="260" title="Document Scanner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/DocumentScanner/scanner4.jpg" width="260" title="Document Scanner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/DocumentScanner/scanner5.jpg" width="260" title="Document Scanner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/DocumentScanner/scanner6.jpg" width="260" title="Document Scanner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/DocumentScanner/scanner7.jpg" width="260" title="Document Scanner">
 </p>
 
-# Secure VPN Pro <a href="https://itunes.apple.com/app/id1474675452" download><img src="https://img.shields.io/badge/-Appstore-gray.svg?style=flat&logo=apple&logoColor=white"></a>
+# Secure VPN Pro 
 
 This app is one of a series of VPN applications that I have been working on from the very beginning to the end. In addition to the functionality that allows you to be online incognito, a user-friendly interface was implemented, smooth transitions between scenes and animations.
 
@@ -18,7 +18,7 @@ After the VPN connection has been established, it becomes possible to monitor th
 <img src="images/SecureVpnPro/menu.png" width="260"  title="Secure VPN Pro">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SecureVpnPro/serverList.png" width="260" title="Secure VPN Pro">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SecureVpnPro/transition_animations.gif" width="260" title="Secure VPN Pro">
 </p>
 
-# Monster VPN Proxy <a href="https://apps.apple.com/us/app/vpn/id1460589548?ls=1" download><img src="https://img.shields.io/badge/-Appstore-gray.svg?style=flat&logo=apple&logoColor=white"></a>
+# Monster VPN Proxy
 
 In this application, I implemented a fun and simple design along with the basic functionality that allows you to be incognito on the network.
 
@@ -28,7 +28,7 @@ Nice colors, animations and simplicity make this app comfortable and user-friend
 <img src="images/MonsterVPNProxy/menu.png" width="260"  title="Monster VPN Proxy">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/MonsterVPNProxy/home.png" width="260" title="Monster VPN Proxy">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/MonsterVPNProxy/transition_animations.gif" width="260" title="Monster VPN Proxy">
 </p>
 
-# Hot VPN <a href="https://apps.apple.com/us/app/vpn/id1437498688?ls=1" download><img src="https://img.shields.io/badge/-Appstore-gray.svg?style=flat&logo=apple&logoColor=white"></a>
+# Hot VPN
 
 Nice and minimal design was implemented in this application. Ease of use when choosing a server, connecting with a user-friendly interface make this application as comfortable as possible.
 
