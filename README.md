@@ -2,7 +2,7 @@
 
 # Document Scanner <a href="https://apps.apple.com/us/app/scanner/id1485075320?ls=1" download><img src="https://img.shields.io/badge/-Appstore-gray.svg?style=flat&logo=apple&logoColor=white"></a>
 
-This application includes many features that allow you to scan documents and edit them. Among the main features are scanning, applying various filters, resizing / quality and resolution. So there are such functions as text recognition, signature and many others ...
+This application includes many features that allow you to scan documents and edit them. Among the main features are scanning, applying various filters, resizing / quality and resolution. So there are such functions as text recognition, signature and many others...
 
 <p align="center">
 <img src="images/DocumentScanner/scanner1.jpg" width="260"  title="Document Scanner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/DocumentScanner/scanner2.jpg" width="260" title="Document Scanner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/DocumentScanner/scanner3.jpg" width="260" title="Document Scanner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/DocumentScanner/scanner4.jpg" width="260" title="Document Scanner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/DocumentScanner/scanner5.jpg" width="260" title="Document Scanner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/DocumentScanner/scanner6.jpg" width="260" title="Document Scanner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/DocumentScanner/scanner7.jpg" width="260" title="Document Scanner">
