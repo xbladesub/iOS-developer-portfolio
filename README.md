@@ -18,14 +18,15 @@ This application includes many features that allow you to scan documents and edi
 
 # Secure VPN Pro 
 
-This app is one of a series of VPN applications that I have been working on from the very beginning to the end. In addition to the functionality that allows you to be online incognito, a user-friendly interface was implemented, smooth transitions between scenes and animations.
+Nice and minimal design was implemented in this application. Ease of use when choosing a server, connecting with a user-friendly interface make this application as comfortable as possible.
 
-After the VPN connection has been established, it becomes possible to monitor the current location and the selected server on the map, including the new ip-address.
+This app is implemented in such a way as to be responsive and simple. Also, as soon as VPN connection has been established you can observe new network parameters such as ping and ip-address.
 
 <p align="center">
 <img src="images/SecureVpnPro/menu.png" width="260"  title="Secure VPN Pro">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SecureVpnPro/serverList.png" width="260" title="Secure VPN Pro">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SecureVpnPro/transition_animations.gif" width="260" title="Secure VPN Pro">
 </p>
 
+<!--
 # Monster VPN Proxy
 
 In this application, I implemented a fun and simple design along with the basic functionality that allows you to be incognito on the network.
@@ -45,3 +46,4 @@ This app is implemented in such a way as to be responsive and simple. Also, as s
 <p align="center">
 <img src="images/HotVPN/payment.png" width="260"  title="Hot VPN">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/HotVPN/home.png" width="260" title="Hot VPN">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/HotVPN/transition_animations.gif" width="260" title="Hot VPN">
 </p>
+//-->
