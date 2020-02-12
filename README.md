@@ -26,7 +26,7 @@ This app is implemented in such a way as to be responsive and simple. Also, as s
 <img src="images/SecureVpnPro/menu.png" width="260"  title="Secure VPN Pro">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SecureVpnPro/serverList.png" width="260" title="Secure VPN Pro">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/SecureVpnPro/transition_animations.gif" width="260" title="Secure VPN Pro">
 </p>
 
-<!--
+
 # Monster VPN Proxy
 
 In this application, I implemented a fun and simple design along with the basic functionality that allows you to be incognito on the network.
@@ -46,4 +46,3 @@ This app is implemented in such a way as to be responsive and simple. Also, as s
 <p align="center">
 <img src="images/HotVPN/payment.png" width="260"  title="Hot VPN">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/HotVPN/home.png" width="260" title="Hot VPN">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/HotVPN/transition_animations.gif" width="260" title="Hot VPN">
 </p> 
--->
