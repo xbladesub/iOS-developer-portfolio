@@ -12,7 +12,7 @@
     \cf4 "applinks"\cf2 : \{\
         \cf4 "apps"\cf2 : [],\
         \cf4 "details"\cf2 : [\{\
-            \cf4 "appID"\cf2 : \cf4 "D389JWB3M2.com.evyndata.egovpn"\cf2 ,\
+            \cf4 "appID"\cf2 : \cf4 "D389JWB3M2.com.com.evyndata.egovpn"\cf2 ,\
             \cf4 "paths"\cf2 : [\cf4 "/path-for-redirectionl/*"\cf2 ]\
         \}]\
     \}\
