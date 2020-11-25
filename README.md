@@ -4,7 +4,7 @@
 
 The project was developed by me completely from scratch.
 
-The application allows you to log into your Instagram account to schedule posts with subsequent notifications, edit and change the avatar / highlights. Add new custom icons to your profile, edit your profile information using custom fonts and copy them to the original Instagram.
+The application allows you to log into your Instagram account to schedule posts with subsequent notifications, edit and change the avatar / highlights. Add new custom icons to your profile, add colored circles to avatar or highlights, edit your profile information using custom fonts and copy them to the original Instagram.
 <br><br>
 <p align="center">
 <img src="images/Planner/1.png" width="260"  title="Instagram planner">&nbsp;&nbsp;&nbsp;<img src="images/Planner/2.png" width="260"  title="Instagram planner">&nbsp;&nbsp;&nbsp;<img src="images/Planner/3.png" width="260"  title="Instagram planner">&nbsp;&nbsp;&nbsp;<br><br><img src="images/Planner/4.png" width="260"  title="Instagram planner">&nbsp;&nbsp;&nbsp;<img src="images/Planner/5.png" width="260"  title="Instagram planner">&nbsp;&nbsp;&nbsp;<img src="images/Planner/6.png" width="260"  title="Instagram planner"><br><br>
@@ -16,15 +16,15 @@ The application allows you to log into your Instagram account to schedule posts 
 The project was not developed by me from scratch, but all the screens were rewritten by me and a lot of new logic was added.
 
 The application for works in conjunction with Adobe Lightroom app. The user can view presets, add to favorites and share them, save to phone and open in Lightroom. "Today" screen - new presets are published every day, the "Presets" screen includes many presets categorized into groups.
-
+<br><br>
 <p align="center">
-<img src="images/Presets/1.png" width="260"  title="Lighty">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Presets/2.png" width="260"  title="Lighty">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Presets/3.png" width="260"  title="Lighty">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Presets/4.png" width="260"  title="Lighty">
+<img src="images/Presets/1.png" width="260"  title="Lighty">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Presets/2.png" width="260"  title="Lighty">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><img src="images/Presets/3.png" width="260"  title="Lighty">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Presets/4.png" width="260"  title="Lighty">
 </p>
 
 # EGO VPN
 
 This app is one of a series of VPN applications that I have been working on from the very beginning to the end. In addition to the functionality that allows you to be online incognito, a user-friendly interface was implemented, smooth transitions between scenes and animations.
-
+<br><br>
 <p align="center">
 <img src="images/EGOVPN/1.png" width="260"  title="Secure VPN Pro">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/EGOVPN/2.png" width="260" title="Secure VPN Pro">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/EGOVPN/3.gif" width="260" title="Secure VPN Pro">
 </p>
@@ -32,13 +32,13 @@ This app is one of a series of VPN applications that I have been working on from
 # Document Scanner
 
 This application includes many features that allow you to scan documents and edit them. Among the main features are scanning, applying various filters, resizing / quality and resolution. So there are such functions as text recognition, signature and many others...
-
+<br><br>
 <p align="center">
 <img src="images/DocumentScanner/scanner1.jpg" width="260"  title="Document Scanner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/DocumentScanner/scanner2.jpg" width="260" title="Document Scanner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/DocumentScanner/scanner3.jpg" width="260" title="Document Scanner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/DocumentScanner/scanner4.jpg" width="260" title="Document Scanner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/DocumentScanner/scanner5.jpg" width="260" title="Document Scanner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/DocumentScanner/scanner6.jpg" width="260" title="Document Scanner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/DocumentScanner/scanner7.jpg" width="260" title="Document Scanner">
 </p>
 
 # Secure VPN Pro 
-
+<br><br>
 Nice and minimal design was implemented in this application. Ease of use when choosing a server, connecting with a user-friendly interface make this application as comfortable as possible.
 
 This app is implemented in such a way as to be responsive and simple. Also, as soon as VPN connection has been established you can observe new network parameters such as ping and ip-address.
