@@ -6,6 +6,7 @@ Description...
 
 <p align="center">
 <img src="images/Laro/Presets/1.png" width="260"  title="Lighty">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Laro/Presets/2.png" width="260"  title="Lighty">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Laro/Presets/3.png" width="260"  title="Lighty">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Laro/Presets/4.png" width="260"  title="Lighty">
+</p>
 
 # EGO VPN
 
