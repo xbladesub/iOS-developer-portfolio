@@ -8,7 +8,7 @@ The application allows you to log into your Instagram account to schedule posts 
 
 <p align="center">
 <img src="images/Planner/1.png" width="260"  title="Instagram planner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Planner/2.png" width="260"  title="Instagram planner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Planner/3.png" width="260"  title="Instagram planner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Planner/4.png" width="260"  title="Instagram planner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Planner/5.png" width="260"  title="Instagram planner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Planner/6.png" width="260"  title="Instagram planner">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Planner/7.png" width="260"  title="Instagram planner">
+<img src="images/Planner/7.png" width="260"  title="Instagram planner">
 </p>
 
 # Lighty, Presets for Lightroom
