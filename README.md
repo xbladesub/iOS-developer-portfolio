@@ -18,7 +18,7 @@ The project was not developed by me from scratch, but all the screens were rewri
 The application for works in conjunction with Adobe Lightroom app. The user can view presets, add to favorites and share them, save to phone and open in Lightroom. "Today" screen - new presets are published every day, the "Presets" screen includes many presets categorized into groups.
 <br><br>
 <p align="center">
-<img src="images/Presets/1.png" width="260"  title="Lighty">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Presets/2.png" width="260"  title="Lighty">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br><br><img src="images/Presets/3.png" width="260"  title="Lighty">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Presets/4.png" width="260"  title="Lighty">
+<img src="images/Presets/1.png" width="260"  title="Lighty">&nbsp;&nbsp;&nbsp;<img src="images/Presets/2.png" width="260"  title="Lighty">&nbsp;&nbsp;&nbsp;<br><br><img src="images/Presets/3.png" width="260"  title="Lighty">&nbsp;&nbsp;&nbsp;<img src="images/Presets/4.png" width="260"  title="Lighty">
 </p>
 
 # EGO VPN
