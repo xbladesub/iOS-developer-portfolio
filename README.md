@@ -7,7 +7,7 @@ The project was developed by me completely from scratch.
 The application allows you to log into your Instagram account to schedule posts with subsequent notifications, edit and change the avatar / highlights. Add new custom icons to your profile, edit your profile information using custom fonts and copy them to the original Instagram.
 
 <p align="center">
-<img src="images/Planner/1.png" width="260"  title="Instagram planner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Planner/2.png" width="260"  title="Instagram planner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Planner/3.png" width="260"  title="Instagram planner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Planner/4.png" width="260"  title="Instagram planner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Planner/5.png" width="260"  title="Instagram planner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Planner/6.png" width="260"  title="Instagram planner">
+<img src="images/Planner/1.png" width="260"  title="Instagram planner"><img src="images/Planner/2.png" width="260"  title="Instagram planner"><img src="images/Planner/3.png" width="260"  title="Instagram planner"><img src="images/Planner/4.png" width="260"  title="Instagram planner"><img src="images/Planner/5.png" width="260"  title="Instagram planner"><img src="images/Planner/6.png" width="260"  title="Instagram planner">
 <img src="images/Planner/7.png" width="260"  title="Instagram planner">
 </p>
 
