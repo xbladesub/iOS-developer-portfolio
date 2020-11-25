@@ -2,7 +2,9 @@
 
 # Instagram Planner
 
-Description...
+The project was developed by me completely from scratch.
+
+The application allows you to log into your Instagram account to schedule posts with subsequent notifications, edit and change the avatar / highlights. Add new custom icons to your profile, edit your profile information using custom fonts and copy them to the original Instagram.
 
 <p align="center">
 <img src="images/Planner/1.png" width="260"  title="Instagram planner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Planner/2.png" width="260"  title="Instagram planner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Planner/3.png" width="260"  title="Instagram planner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Planner/4.png" width="260"  title="Instagram planner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Planner/5.png" width="260"  title="Instagram planner">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Planner/6.png" width="260"  title="Instagram planner">
@@ -11,7 +13,9 @@ Description...
 
 # Lighty, Presets for Lightroom
 
-Description...
+The project was not developed by me from scratch, but all the screens were rewritten by me and a lot of new logic was added.
+
+The application for works in conjunction with Adobe Lightroom app. The user can view presets, add to favorites and share them, save to phone and open in Lightroom. "Today" screen - new presets are published every day, the "Presets" screen includes many presets categorized into groups.
 
 <p align="center">
 <img src="images/Presets/1.png" width="260"  title="Lighty">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Presets/2.png" width="260"  title="Lighty">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Presets/3.png" width="260"  title="Lighty">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Presets/4.png" width="260"  title="Lighty">
