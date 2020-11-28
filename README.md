@@ -36,7 +36,7 @@ The application for works in conjunction with Adobe Lightroom app. The user can 
 This app is one of a series of VPN applications that I have been working on from the very beginning to the end. In addition to the functionality that allows you to be online incognito, a user-friendly interface was implemented, smooth transitions between scenes and animations.
 <br><br>
 <p align="center">
-<img src="images/EGOVPN/1.png" width="260"  title="Secure VPN Pro">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/EGOVPN/2.png" width="260" title="Secure VPN Pro"><img src="images/EGOVPN/3.gif" width="260" title="Secure VPN Pro">
+<img src="images/EGOVPN/1.png" width="260"  title="Secure VPN Pro">&nbsp;&nbsp;&nbsp;<img src="images/EGOVPN/2.png" width="260" title="Secure VPN Pro">&nbsp;&nbsp;&nbsp;<img src="images/EGOVPN/3.gif" width="260" title="Secure VPN Pro">
 </p>
 
 # Document Scanner
