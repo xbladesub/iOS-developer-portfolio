@@ -16,7 +16,7 @@ The application allows you to log into your Instagram account to schedule posts 
 The project was not developed by me from scratch, but a lot of new logic and new screens was added by me.
 
 This app allows you to record your phone call using service numbers. Sharing, editing and rearrange features are also possible.
-
+<br><br>
 <p align="center">
 <img src="images/Recorder/1.png" width="260"  title="Call Recorder">&nbsp;&nbsp;&nbsp;<img src="images/Recorder/2.png" width="260"  title="Call Recorder"><br><br><img src="images/Recorder/3.png" width="260"  title="Call Recorder">&nbsp;&nbsp;&nbsp;<img src="images/Recorder/4.png" width="260"  title="Call Recorder"><br><br><img src="images/Recorder/5.png" width="260"  title="Call Recorder">
 </p>
