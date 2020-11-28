@@ -11,6 +11,16 @@ The application allows you to log into your Instagram account to schedule posts 
 <img src="images/Planner/7.png" width="260"  title="Instagram planner">
 </p>
 
+# Call Recorder
+
+The project was not developed by me from scratch, but a lot of new logic and new screens was added by me.
+
+This app allows you to record your phone call using service numbers. Sharing, editing and rearrange features are also possible.
+
+<p align="center">
+<img src="images/Recorder/1.png" width="260"  title="Call Recorder">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Recorder/2.png" width="260"  title="Call Recorder">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Recorder/3.png" width="260"  title="Call Recorder">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Recorder/4.png" width="260"  title="Call Recorder">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="images/Recorder/5.png" width="260"  title="Call Recorder">
+</p>
+
 # Lighty, Presets for Lightroom
 
 The project was not developed by me from scratch, but all the screens were rewritten by me and a lot of new logic was added.
