@@ -23,9 +23,7 @@ This app allows you to record your phone call using service numbers. Sharing, ed
 
 # Lighty, Presets for Lightroom
 
-The project was not developed by me from scratch, but all the screens were rewritten by me and a lot of new logic was added.
-
-The application for works in conjunction with Adobe Lightroom app. The user can view presets, add to favorites and share them, save to phone and open in Lightroom. "Today" screen - new presets are published every day, the "Presets" screen includes many presets categorized into groups.
+The project was not developed by me from scratch. Application for works in conjunction with Adobe Lightroom app. The user can view presets, add to favorites and share them, save to phone and open in Lightroom. "Today" screen - new presets are published every day, the "Presets" screen includes many presets categorized into groups.
 <br><br>
 <p align="center">
 <img src="images/Presets/1.png" width="260"  title="Lighty">&nbsp;&nbsp;&nbsp;<img src="images/Presets/2.png" width="260"  title="Lighty"><br><br><img src="images/Presets/3.png" width="260"  title="Lighty">&nbsp;&nbsp;&nbsp;<img src="images/Presets/4.png" width="260"  title="Lighty">
@@ -40,6 +38,17 @@ This project developed by me from the scratch. The app collects data about the u
 <img src="images/Hero/img3.png" width="260"  title="HERO: Intermittent Fasting App">&nbsp;&nbsp;&nbsp;<img src="images/Hero/img1.png" width="260"  title="HERO: Intermittent Fasting App">&nbsp;&nbsp;&nbsp;<img src="images/Hero/img4.png" width="260"  title="HERO: Intermittent Fasting App">&nbsp;&nbsp;&nbsp;<br><br><img src="images/Hero/img7.png" width="260"  title="HERO: Intermittent Fasting App">&nbsp;&nbsp;&nbsp;<img src="images/Hero/img5.png" width="260"  title="HERO: Intermittent Fasting App">&nbsp;&nbsp;&nbsp;<img src="images/Hero/img6.png" width="260"  title="Instagram planner"><br><br>
 <img src="images/Hero/img8.png" width="260"  title="HERO: Intermittent Fasting App">&nbsp;&nbsp;&nbsp;<img src="images/Hero/img2.png" width="260"  title="HERO: Intermittent Fasting App">
 </p>
+
+# Widgets Themes - Color Widgets
+
+The project was not developed by me from scratch, but a lot of new logic and new screens was added by me. The application allows you to install custom widgets (iOS 13).
+All project was written using SwiftUI.
+
+<br><br>
+<p align="center">
+<img src="images/Widgets/img1.png" width="260"  title="Widgets Themes - Color Widgets">&nbsp;&nbsp;&nbsp;<img src="images/Widgets/img2.png" width="260"  title="Widgets Themes - Color Widgets"><br><br><img src="images/Widgets/img3.png" width="260"  title="Widgets Themes - Color Widgets">&nbsp;&nbsp;&nbsp;<img src="images/Widgets/img4.png" width="260"  title="Widgets Themes - Color Widgets">
+</p>
+
 
 # EGO VPN
 
