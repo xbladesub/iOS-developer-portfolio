@@ -31,6 +31,16 @@ The application for works in conjunction with Adobe Lightroom app. The user can 
 <img src="images/Presets/1.png" width="260"  title="Lighty">&nbsp;&nbsp;&nbsp;<img src="images/Presets/2.png" width="260"  title="Lighty"><br><br><img src="images/Presets/3.png" width="260"  title="Lighty">&nbsp;&nbsp;&nbsp;<img src="images/Presets/4.png" width="260"  title="Lighty">
 </p>
 
+# HERO: Intermittent Fasting App
+
+This project developed by me from the scratch. The app collects data about the user (weight, height, exercise intensity, typical meal times) and based on this data, it offers personal plans for gaining muscle mass / losing weight. The project includes a lot of calculations, a flexible UI and a lot of push notifications.
+
+<br><br>
+<p align="center">
+<img src="images/Hero/img3.png" width="260"  title="HERO: Intermittent Fasting App">&nbsp;&nbsp;&nbsp;<img src="images/Hero/img1.png" width="260"  title="HERO: Intermittent Fasting App">&nbsp;&nbsp;&nbsp;<img src="images/Hero/img4.png" width="260"  title="HERO: Intermittent Fasting App">&nbsp;&nbsp;&nbsp;<br><br><img src="images/Hero/img7.png" width="260"  title="HERO: Intermittent Fasting App">&nbsp;&nbsp;&nbsp;<img src="images/Hero/img5.png" width="260"  title="HERO: Intermittent Fasting App">&nbsp;&nbsp;&nbsp;<img src="images/Hero/img6.png" width="260"  title="Instagram planner"><br><br>
+<img src="images/Hero/img8.png" width="260"  title="HERO: Intermittent Fasting App">&nbsp;&nbsp;&nbsp;<img src="images/Hero/img2.png" width="260"  title="HERO: Intermittent Fasting App">
+</p>
+
 # EGO VPN
 
 This app is one of a series of VPN applications that I have been working on from the very beginning to the end. In addition to the functionality that allows you to be online incognito, a user-friendly interface was implemented, smooth transitions between scenes and animations.
