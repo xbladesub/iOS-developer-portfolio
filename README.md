@@ -29,6 +29,8 @@ The project was not developed by me from scratch. Application for works in conju
 <img src="images/Presets/1.png" width="260"  title="Lighty">&nbsp;&nbsp;&nbsp;<img src="images/Presets/2.png" width="260"  title="Lighty"><br><br><img src="images/Presets/3.png" width="260"  title="Lighty">&nbsp;&nbsp;&nbsp;<img src="images/Presets/4.png" width="260"  title="Lighty">
 </p>
 
+<a href="https://apps.apple.com/us/app/presets-for-lightroom-lighty/id1507217413?itsct=apps_box&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1591833600&h=4c0386e9e88aff63c6c98e374df3f7d1" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
+
 # HERO: Intermittent Fasting App
 
 This project developed by me from the scratch. The app collects data about the user (weight, height, exercise intensity, typical meal times) and based on this data, it offers personal plans for gaining muscle mass / losing weight. The project includes a lot of calculations, a flexible UI and a lot of push notifications.
