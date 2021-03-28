@@ -24,6 +24,19 @@ The application allows you to log into your Instagram account to schedule posts 
 </h1>
 <br><br>
 
+# Lighty, Presets for Lightroom
+
+The project was not developed by me from scratch. Application for works in conjunction with Adobe Lightroom app. The user can view presets, add to favorites and share them, save to phone and open in Lightroom. "Today" screen - new presets are published every day, the "Presets" screen includes many presets categorized into groups.
+<br><br>
+<p align="center">
+<img src="images/Presets/1.png" width="260"  title="Lighty">&nbsp;&nbsp;&nbsp;<img src="images/Presets/2.png" width="260"  title="Lighty"><br><br><img src="images/Presets/3.png" width="260"  title="Lighty">&nbsp;&nbsp;&nbsp;<img src="images/Presets/4.png" width="260"  title="Lighty">
+</p>
+
+<br>
+<p align="center">
+<a href="https://apps.apple.com/us/app/presets-for-lightroom-lighty/id1507217413?itsct=apps_box&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1591833600&h=4c0386e9e88aff63c6c98e374df3f7d1" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
+</p>
+
 # Call Recorder
 
 The project was not developed by me from scratch, but a lot of new logic and new screens was added by me.
@@ -37,19 +50,6 @@ This app allows you to record your phone call using service numbers. Sharing, ed
 <br>
 <p align="center">
 <a href="https://apps.apple.com/us/app/call-recorder-rec-record-pro/id1510103559?itsct=apps_box&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1602892800&h=12ace20c44362f280be562dbd7eb6335" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
-</p>
-
-# Lighty, Presets for Lightroom
-
-The project was not developed by me from scratch. Application for works in conjunction with Adobe Lightroom app. The user can view presets, add to favorites and share them, save to phone and open in Lightroom. "Today" screen - new presets are published every day, the "Presets" screen includes many presets categorized into groups.
-<br><br>
-<p align="center">
-<img src="images/Presets/1.png" width="260"  title="Lighty">&nbsp;&nbsp;&nbsp;<img src="images/Presets/2.png" width="260"  title="Lighty"><br><br><img src="images/Presets/3.png" width="260"  title="Lighty">&nbsp;&nbsp;&nbsp;<img src="images/Presets/4.png" width="260"  title="Lighty">
-</p>
-
-<br>
-<p align="center">
-<a href="https://apps.apple.com/us/app/presets-for-lightroom-lighty/id1507217413?itsct=apps_box&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1591833600&h=4c0386e9e88aff63c6c98e374df3f7d1" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 </p>
 
 # HERO: Intermittent Fasting App
