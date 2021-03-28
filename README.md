@@ -18,13 +18,9 @@ The application allows you to log into your Instagram account to schedule posts 
 </p>
 -->
 <br><br>
-<b>
-<strong>
 <h1 align="center">
 These are some of the latest projects. To see all projects, contact me personally.
 </h1>
-</strong>
-</b>
 <br><br>
 
 # Call Recorder
