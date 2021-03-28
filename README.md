@@ -18,12 +18,14 @@ The application allows you to log into your Instagram account to schedule posts 
 </p>
 -->
 <br><br>
-<p align="center"; style="color:red">
+<p align="center">
+<p style="color:red">
 <b>
 <strong>
 These are some of the latest projects. To see all projects, contact me personally.
 </strong>
 </b>
+</p>
 </p>
 <br><br>
 
