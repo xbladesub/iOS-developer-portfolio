@@ -19,9 +19,9 @@ The application allows you to log into your Instagram account to schedule posts 
 -->
 <br><br>
 <b>
-<center>
+<p align="center">
 These are some of the latest projects. To see all projects, contact me personally.
-</center>
+</p>
 </b>
 <br><br>
 
