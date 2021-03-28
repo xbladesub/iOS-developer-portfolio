@@ -17,11 +17,13 @@ The application allows you to log into your Instagram account to schedule posts 
 <a href="https://apps.apple.com/us/app/preview-planner-for-instagram/id1532504123?itsct=apps_box&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1606435200&h=bd6500046dca472b49d5dcc30d235371" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
 </p>
 -->
+<br><br>
 <p align="center">
 <b>
-These are some of the latest projects. To see all projects, contact me personally.
+# These are some of the latest projects. To see all projects, contact me personally.
 </b>
 </p>
+<br><br>
 
 # Call Recorder
 
