@@ -1,5 +1,6 @@
 <a href="https://drive.google.com/file/d/1siTgvsGf0RmbFW6XqaDKTytEi6LFpB56/view?usp=sharing" download><img src="https://img.shields.io/badge/Download-Resume-8056d5.svg?style=for-the-badge&logo=swift&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:nickshv13@gmail.com"><img src="https://img.shields.io/badge/Email-Nikolai-red.svg?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://linkedin.com/in/nshelehov" target="_blank"><img src="https://img.shields.io/badge/linkedin-nshelehov-17A192.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://t.me/n_shelehov" target="_blank"><img src="https://img.shields.io/badge/telegram-n__shelehov-5BA3F9.svg?style=for-the-badge&logo=Telegram&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://upwork.com/freelancers/~01726240f751164d57" target="_blank"><img src="https://img.shields.io/badge/work-NikolaiShelehov-brightgreen.svg?style=for-the-badge&logo=upwork&logoColor=brightgreen" ></a>
 
+ <!--
 # Instagram Planner
 
 The project was developed by me completely from scratch.
@@ -14,6 +15,12 @@ The application allows you to log into your Instagram account to schedule posts 
 <br>
 <p align="center">
 <a href="https://apps.apple.com/us/app/preview-planner-for-instagram/id1532504123?itsct=apps_box&amp;itscg=30200" style="display: inline-block; overflow: hidden; border-radius: 13px; width: 250px; height: 83px;"><img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=250x83&amp;releaseDate=1606435200&h=bd6500046dca472b49d5dcc30d235371" alt="Download on the App Store" style="border-radius: 13px; width: 250px; height: 83px;"></a>
+</p>
+-->
+<p align="center">
+<b>
+These are some of the latest projects. To see all projects, contact me personally.
+</b>
 </p>
 
 # Call Recorder
